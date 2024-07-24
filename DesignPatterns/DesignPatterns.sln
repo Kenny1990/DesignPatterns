@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Cons", "DesignPatterns.Cons\DesignPatterns.Cons.csproj", "{A30AFCC6-B9E3-42AE-A188-AC53A9BA34D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Lib", "DesignPatterns.Lib\DesignPatterns.Lib.csproj", "{24306379-DAFD-4897-9E0B-1EA3DDC3C111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A30AFCC6-B9E3-42AE-A188-AC53A9BA34D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A30AFCC6-B9E3-42AE-A188-AC53A9BA34D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A30AFCC6-B9E3-42AE-A188-AC53A9BA34D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24306379-DAFD-4897-9E0B-1EA3DDC3C111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24306379-DAFD-4897-9E0B-1EA3DDC3C111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24306379-DAFD-4897-9E0B-1EA3DDC3C111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24306379-DAFD-4897-9E0B-1EA3DDC3C111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
